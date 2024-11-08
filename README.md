@@ -1,5 +1,10 @@
-# Vue 3 + Vite
+# VITE-HELLO-WORLD
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Descrizione
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Questo progetto consiste in una semplice applicazione creata utilizzando **Vite**, un moderno build tool per progetti frontend. Come primo passo, abbiamo installato e configurato Vite seguendo le indicazioni fornite in lezione.
+
+### Funzionalità principali
+- **AppTitle**: un componente che visualizza il messaggio _"La mia prima app con Vite!"_
+- **AppHero** (Bonus): un secondo componente che rappresenta un jumbotron per evidenziare contenuti importanti.
+
